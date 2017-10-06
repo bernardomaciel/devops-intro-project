@@ -3,3 +3,4 @@ packer_cache
 packer-templates/virtualbox/
 devops-kungfu/
 account.json
+output/
